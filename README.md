@@ -1,1 +1,1 @@
-# cje-pipeline-lab
+# simple-java-maven-app
